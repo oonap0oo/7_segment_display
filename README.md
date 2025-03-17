@@ -3,6 +3,9 @@ this repository contains Python applicatons which use seven segement displays wh
 
 ![Beschrijving van GUI](clock1.png)
 
+![Beschrijving van GUI](clock2.png)
+
+
 7segment_clock.py
 
 Copyright 2025 Nap0
