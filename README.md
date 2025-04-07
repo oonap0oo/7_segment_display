@@ -1,5 +1,5 @@
 # 7_segment_display
-this repository contains Python applicatons which use seven segement displays which are dranw on a tkinter canvas
+this repository contains Python applicatons which use seven segment displays which are drawn on a tkinter canvas
 
 ![Beschrijving van GUI](clock1.png)
 
